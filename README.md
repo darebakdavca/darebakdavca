@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on finishing my bachelor degree in Information Technologies<br>👯 I’m looking to collaborate on frontend development projects to gain more experience<br>🌱 I’m currently learning Vue and Electron<br>⚡︎ Fun fact: I love TailwindCSS!
+🔭 I’m currently working on my masters degree in Information Technologies<br>👯 I’m looking to collaborate on frontend development projects to gain more experience<br>🌱 I’m currently improving my Next.js skills.<br>⚡︎ Fun fact: I love TailwindCSS!
 
 
 ## 🌐 Socials:
